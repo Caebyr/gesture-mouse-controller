@@ -1,4 +1,4 @@
-Gesture-Based Mouse Controller - README
+Gesture-Based Mouse Controller
 
 Overview:
 This is a Python project that enables mouse control using hand gestures in real-time. It uses a webcam to detect hand positions and perform mouse operations like moving, clicking, and scrolling.
